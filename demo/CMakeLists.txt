@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(test)
+project(hello)
 
-add_executable(test test.c)
+add_executable(hello hello.c)
